@@ -1,5 +1,5 @@
 # Color-Guessing-Game
-This is a console-based game. Its original language is Spanish, but here are the instructions translated: 
+This is a terminal-based game. Its original language is Spanish, but here are the instructions translated: 
 
 1. The game generates a random code of 4 colors and assigns them to each of the secret positions on the board.
 2. The player is given 10 attempts (one at a time) to guess which colors are in each of the 4 secret positions.
